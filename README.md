@@ -14,4 +14,4 @@ Thus the data is only until 21-May-2020
 
 Manual adjustment to the csv file is needed for preliminary data cleaning due to this
 
-![Image of table](../master/images/adjustdata.jpg)
+![Image of table](../COVID19_malaysia/images/adjustdata.jpg)
