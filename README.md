@@ -9,7 +9,7 @@ pre-requisite to run this
 
 
 
-Cases_ByState.csv is output from above file run at <b>21-May-2020</b> <br>.
+Cases_ByState.csv is output from above file run at <b>21-May-2020</b>. <br>
 Thus the data is only until 21-May-2020
 
 Manual adjustment to the csv file is needed for preliminary data cleaning due to this
