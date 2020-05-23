@@ -15,3 +15,6 @@ Thus the data is only until 21-May-2020
 Manual adjustment to the csv file is needed for preliminary data cleaning due to this
 
 ![Image of table](adjustdata.png)
+
+
+Data is uploaded in kaggle https://www.kaggle.com/mahirahmzh/covid19-malaysia-by-region
